@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmoud\\Desktop\\Graphics ASS2\\OpenGL3DTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1F2C2-040C-46D8-8332-127B746115A6}|OpenGL3DTemplate.vcxproj|C:\\Users\\Mahmoud\\Desktop\\Graphics ASS2\\OpenGL3DTemplate\\P24_55_1653_Mahmoud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EE1F2C2-040C-46D8-8332-127B746115A6}|OpenGL3DTemplate.vcxproj|solutionrelative:P24_55_1653_Mahmoud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P24_55_1653_Mahmoud.cpp",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\Desktop\\Graphics ASS2\\OpenGL3DTemplate\\P24_55_1653_Mahmoud.cpp",
+              "RelativeDocumentMoniker": "P24_55_1653_Mahmoud.cpp",
+              "ToolTip": "C:\\Users\\Mahmoud\\Desktop\\Graphics ASS2\\OpenGL3DTemplate\\P24_55_1653_Mahmoud.cpp",
+              "RelativeToolTip": "P24_55_1653_Mahmoud.cpp",
+              "ViewState": "AgIAAKoEAAAAAAAAAAAjwF4FAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T20:09:27.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
